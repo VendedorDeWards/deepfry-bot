@@ -1,4 +1,4 @@
-const token = "Nzc3MzYwMzU0MDk0ODc0NjQ0.X7CTPw.mQtd2EcB1uyYO-UFySFR0TS6Rw8"
+const token = "token"
 
 
 
